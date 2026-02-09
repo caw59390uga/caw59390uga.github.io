@@ -63,6 +63,20 @@ hr {
 
 }
 
+section {
+	max-width: 900px;
+	margin: 40px auto;
+	padding: 0 20px;
+}
+section h2 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 2rem;
+	color: #4b0082;
+ 	 margin-bottom: 15px;
+  	border-bottom: 3px solid lightblue;
+  	display: inline-block;
+ 	padding-bottom: 5px;
+}
 section h3 {
   font-family: 'Roboto Slab', serif;
   font-size: 1.5rem;
